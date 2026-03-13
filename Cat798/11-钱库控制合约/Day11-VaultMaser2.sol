@@ -3,7 +3,7 @@
 pragma solidity ^0.8.20;
 
 
-// 导入官方 OpenZeppelin 版本合约
+// 导入官方OpenZeppelin版本合约
 import "@openzeppelin/contracts/access/Ownable.sol";
 
 
